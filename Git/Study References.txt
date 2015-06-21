@@ -1,0 +1,28 @@
+Distributed Version Control System
+Hosted Server = Github.com
+Client Shell = Git for Windows
+Client = TortoiseGit, Github for Windows
+Multi-staged Version Control - Individual, Local Team, Global Team, etc
+
+Repository
+Fork or Branch
+Commit
+Pull Request
+Push
+Sync - Push and Pull together
+Publish
+Remote
+gitattribures
+gitignore
+Hidden .git folder inside the Windows file system is the git repository
+
+URLs
+----
+https://code.google.com/p/tortoisegit/
+https://msysgit.github.io/
+http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1
+http://readwrite.com/2013/10/02/github-for-beginners-part-2
+http://classic.scottr.org/presentations/git-in-5-minutes/
+http://schacon.github.io/git/gittutorial.html
+http://gitimmersion.com/lab_01.html
+http://rickrainey.com/2013/07/27/visual-studio-and-gitub-the-basics-of-working-with-existing-repositories-2/
