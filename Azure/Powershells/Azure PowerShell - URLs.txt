@@ -1,0 +1,17 @@
+http://blogs.msdn.com/b/umits/archive/2012/11/16/manage-your-windows-azure-with-powershell.aspx
+http://blogs.technet.com/b/canitpro/archive/2013/11/06/set-by-step-manage-windows-azure-using-powershell.aspx
+http://michaelwasham.com/windows-azure-powershell-reference-guide/getting-started-with-windows-azure-powershell/
+http://www.serverwatch.com/server-tutorials/managing-windows-azure-resources-using-powershell.html
+https://msdn.microsoft.com/library/azure/jj554330.aspx
+https://www.youtube.com/watch?v=E2qwds2_8cQ
+https://www.youtube.com/watch?v=0i36I0eTdl0
+
+Create VM
+---------
+http://michaelwasham.com/windows-azure-powershell-reference-guide/windows-azure-virtual-machines-with-powershell-basics/
+http://blogs.technet.com/b/askpfeplat/archive/2013/04/14/building-a-vm-in-windows-azure-using-powershell-in-a-few-quick-steps.aspx
+http://blogs.technet.com/b/oliviaklose/archive/2014/03/24/azure-powershell-serie-create-virtual-machine.aspx
+
+Cmdlet Reference
+----------------
+https://msdn.microsoft.com/en-us/library/dn708514.aspx

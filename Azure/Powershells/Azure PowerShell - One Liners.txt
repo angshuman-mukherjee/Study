@@ -1,0 +1,17 @@
+PowerShell_ISE
+
+Import-Module 'C:\Program Files (x86)\Microsoft SDKs\Azure\PowerShell\ServiceManagement\Azure\Azure.psd1'
+
+Get-AzureSubscription
+
+Add-AzureAccount -Environment 'AzureCloud'
+
+Get-AzureSubscription
+
+Select-AzureSubscription 'My LTI MSDN Premium'
+
+Get-Command -Module azure '*vm*'
+
+New-AzureSqlDatabaseServer -AdministratorLogin 'Angshuman' -AdministratorLoginPassword '10Mar1977!' -Location 'Southeast Asia' -Version '12.0'
+
+New-AzureSqlDatabase -ServerName 'mnzzqh7k5y' -DatabaseName 'TestDB' -Edition Basic -MaxSizeGB 50
