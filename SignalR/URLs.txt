@@ -1,0 +1,11 @@
+http://www.brendanwhelan.net/2013/scalable-server-push-notifications-with-signalr-and-redis
+https://bsmadhu.wordpress.com/2012/04/30/real-time-web-using-signalr/
+https://channel9.msdn.com/Shows/Web+Camps+TV/Damian-Edwards-and-David-Fowler-Demonstrate-SignalR
+https://github.com/signalr
+https://github.com/SignalR/SignalR
+https://github.com/SignalR/Samples
+https://jabbr.net
+
+https://github.com/SignalR/SignalR/wiki
+http://www.asp.net/signalr
+http://signalr.net/
